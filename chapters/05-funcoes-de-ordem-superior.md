@@ -147,7 +147,7 @@ function gatherCorrelations(journal) {
 
 Funções que operam em outras funções, seja ela apenas devolvendo argumentos, são chamadas de funções de ordem superior. Se você concorda com o fato de que as funções são valores normais, não há nada de notável sobre o fato de sua existência. O termo vem da matemática onde a distinção entre funções e outros valores é levado mais a sério.
 
-Funções de ordem superior nos permitem abstrair as ações. Elas podem serem de diversas formas. Por exemplo, você pode ter funções que criam novas funções.
+Funções de ordem superior nos permitem abstrair as ações. Elas podem ser de diversas formas. Por exemplo, você pode ter funções que criam novas funções.
 
 ```js
 function greaterThan(n) {
